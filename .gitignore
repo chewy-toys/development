@@ -1,0 +1,5 @@
+# generic folders to ignore
+db-stuff/*
+
+
+## generic files to ignore
